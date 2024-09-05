@@ -1,7 +1,7 @@
 # ATXDC
-ATXDC provides hardware interfacing logic to connect a physical 737 TQ into FSX using an Arduino board and ADA Motorshield. 
+ATXDC provides hardware interfacing logic to connect a physical 737 TQ into FSX using an Arduino board and Adafruit Motorshield. 
 
-BOM: Arduino UNO and ADA MotorShield
+BOM: Arduino UNO and Adafruit MotorShield
 
 ![image](https://github.com/user-attachments/assets/a72f2b84-98b8-41e9-8852-b396f9c1604b)
 
